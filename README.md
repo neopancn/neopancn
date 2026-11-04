@@ -8,7 +8,7 @@
 
 更狠的是：内置 **Gemini + DeepSeek 双 AI 模型**，自动为你的网盘分享链接生成推广图片和文案，还能一键发布到 WordPress——做网盘拉新推广的人，素材和引流从此不再求人。
 
-🔗 **[免费下载 NeoPan](https://app.neopan.cn/download)** · Windows / macOS 双平台
+🔗 **[免费下载 NeoPan](https://app.neopan.cn/download)** · Windows / macOS 双平台 · 基础功能免费（批量转存 / 重命名 / 分享 / 广告清理 / AI 素材）
 
 ## 🚀 它能帮你做什么
 
@@ -17,7 +17,8 @@
 - **网盘搬家，不用下载再上传** —— 百度网盘转夸克、夸克转迅雷，跨盘互转边下边传、传完即删，不占硬盘不费流量
 - **广告清理，一键还你清爽网盘** —— 按关键词和文件大小智能识别广告文件、垃圾文件夹，批量删除
 - **链接转换，别人的链接变你的** —— 批量把夸克 / 百度 / 迅雷分享链接转成自己的，支持 Excel 导入导出
-- **AI 素材生成 + 自动发帖** —— 输入分享链接，AI 自动分析资源内容生成推广图和文案，WordPress 自动发布，引流全自动
+- **AI 素材生成 + 全自动发帖** —— 输入分享链接，AI 自动分析资源内容生成推广图和文案；贴吧多吧按序自动发帖、WordPress 一键发布，引流全自动
+- **后处理流水线** —— 转存 / 同步 / 链接转换完成后自动执行：重命名 → 清广告 → 插广告，一次配置全程无人值守
 - **随机插入文件** —— 分享的文件夹里智能随机插入广告钩子或联系方式，曝光转化两不误
 
 ## 📥 安装（三步开跑）
@@ -30,7 +31,8 @@
 
 - 转存上百条链接时**开着保留目录结构**，转完目录原样复制，不用重新整理
 - 资源型账号用**自动同步 + 增量更新**养号，分享链接永远是最新的
-- 做网盘拉新的，把 **AI 素材生成 + WordPress 自动发布**串起来，从素材到发帖一条龙
+- 做网盘拉新的，把 **AI 素材生成 + 贴吧自动发帖 + WordPress 发布**串起来，从素材到发帖一条龙
+- 想多份收入的，加入[**推广返佣计划**](https://app.neopan.cn/blog/neopan-referral-commission-program)：分享专属链接邀人开会员，**最高 50% 佣金**、续购持续返佣、满 10 元提现
 - 分享前先跑一遍**广告清理**，再**随机插入**联系方式文件，转化率肉眼可见地涨
 - 每个功能的完整参数说明都在[官方文档](https://app.neopan.cn/docs)（30+ 篇图文教程）
 
@@ -47,5 +49,6 @@
 - **免费下载**：[app.neopan.cn/download](https://app.neopan.cn/download)
 - **使用文档**：[app.neopan.cn/docs](https://app.neopan.cn/docs)（30+ 篇）
 - **产品详解仓库**：[neopancn/neopan-release](https://github.com/neopancn/neopan-release)
-- **定价**：[app.neopan.cn/pricing](https://app.neopan.cn/pricing)
+- **定价**：[app.neopan.cn/pricing](https://app.neopan.cn/pricing)（基础功能免费 · VIP1 ¥25/月 · VIP2 ¥30/月 · 永久 ¥360）
+- **免费在线工具**：[网盘链接检测](https://app.neopan.cn/tools/disk-check) + [正则表达式生成器](https://app.neopan.cn/tools/regex-generator)
 - **网盘玩法博客**：[app.neopan.cn/blog](https://app.neopan.cn/blog)
